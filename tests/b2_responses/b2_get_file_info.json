@@ -1,0 +1,13 @@
+{
+    "accountId": "test-account-id",
+    "action": "upload",
+    "bucketId": "test-bucket-id-1",
+    "contentLength": 122573,
+    "contentSha1": "test-file-sha1-1",
+    "contentType": "text/plain",
+    "fileId": "test-file-id-1",
+    "fileInfo": {
+        "src_last_modified_millis": "1557200412"
+      },
+    "fileName": "test-file-name-1.txt"
+}

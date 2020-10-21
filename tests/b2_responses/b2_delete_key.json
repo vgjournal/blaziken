@@ -1,0 +1,10 @@
+{
+    "accountId": "test-account-id",
+    "applicationKeyId": "test-application-key",
+    "bucketId": "test-bucket-id-1",
+    "capabilities": ["listFiles", "readFiles", "shareFiles", "writeFiles", "deleteFiles"],
+    "expirationTimestamp": null,
+    "keyName": "testkey",
+    "namePrefix": "test-prefix",
+    "options": ["s3"]
+}

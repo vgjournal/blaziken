@@ -1,0 +1,61 @@
+{
+    "files": [
+      {
+        "accountId": "test-account-id",
+        "action": "upload",
+        "bucketId": "test-bucket-id-1",
+        "contentLength": 0,
+        "contentMd5": null,
+        "contentSha1": "test-file-sha1-1",
+        "contentType": "text/plain",
+        "fileId": "test-file-id-1",
+        "fileInfo": {},
+        "fileName": "test-file-name-1.txt",
+        "uploadTimestamp": 1553818472000
+      },
+      {
+        "accountId": "test-account-id",
+        "action": "upload",
+        "bucketId": "test-bucket-id-1",
+        "contentLength": 35256129,
+        "contentMd5": null,
+        "contentSha1": "test-file-sha1-2",
+        "contentType": "application/zip",
+        "fileId": "test-file-id-2",
+        "fileInfo": {
+          "src_last_modified_millis": "1557200412"
+        },
+        "fileName": "test-file-name-2.txt",
+        "uploadTimestamp": 1557200414000
+      },
+      {
+        "accountId": "test-account-id",
+        "action": "upload",
+        "bucketId": "test-bucket-id-1",
+        "contentLength": 35250488,
+        "contentMd5": null,
+        "contentSha1": "test-file-sha1-3",
+        "contentType": "application/x-zip-compressed",
+        "fileId": "test-file-id-3",
+        "fileInfo": {
+          "src_last_modified_millis": "1557197156000"
+        },
+        "fileName": "test-file-name-3.txt",
+        "uploadTimestamp": 1557198696000
+      },
+      {
+        "accountId": "test-account-id",
+        "action": "folder",
+        "bucketId": "test-bucket-id-1",
+        "contentLength": 0,
+        "contentMd5": null,
+        "contentSha1": null,
+        "contentType": null,
+        "fileId": null,
+        "fileInfo": {},
+        "fileName": "test-folder/",
+        "uploadTimestamp": 0
+      }
+    ],
+    "nextFileName": null
+  }

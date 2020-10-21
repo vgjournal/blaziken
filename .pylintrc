@@ -1,0 +1,15 @@
+[MASTER]
+init-hook='from pylint.config import find_pylintrc; import os, sys; sys.path.append(os.path.dirname(find_pylintrc()) + "/vgjournal")'
+
+disable = no-name-in-module, import-error, bad-whitespace, too-few-public-methods, too-many-public-methods, too-many-public-methods, too-many-arguments, too-many-instance-attributes
+
+# Ignore generated database migrations
+ignore-patterns=[0-9]{4}_[0-9]{8}_[0-9a-zA-z]{12}_.py
+
+#  Run parallel jobs for faster linting (0 means automatic detection of core amount)
+jobs=0
+
+reports=y
+
+[TYPECHECK]
+ignore = strings.py, fstrings.py

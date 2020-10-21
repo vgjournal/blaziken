@@ -1,0 +1,23 @@
+# IDE-related paths
+.vscode/*
+*.code-workspace
+
+# Auto-generated files
+__pycache__
+.coverage
+.mypy_cache
+.vscode/
+*.egg-info/
+*.log
+build/*
+dist/*
+docs/build/*
+htmlcov/*
+MANIFEST
+
+
+# Experimental files
+.unversioned/*
+
+# Unused files
+*.old

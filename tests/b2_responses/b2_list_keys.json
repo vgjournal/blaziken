@@ -1,0 +1,14 @@
+{
+    "keys": [
+        {
+            "accountId": "test-account-id",
+            "applicationKeyId": "test-application-key-id",
+            "bucketId": null,
+            "capabilities": ["listKeys", "writeKeys", "deleteKeys", "listBuckets", "writeBuckets", "deleteBuckets", "readBuckets", "listFiles", "readFiles", "shareFiles", "writeFiles", "deleteFiles"],
+            "expirationTimestamp": null,
+            "keyName": "test-key",
+            "namePrefix": null,
+            "options": ["s3"]
+        }]
+    , "nextApplicationKeyId": null
+}

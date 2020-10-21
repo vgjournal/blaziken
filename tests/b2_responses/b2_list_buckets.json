@@ -1,0 +1,92 @@
+{
+    "buckets": [
+      {
+        "accountId": "test-account-id",
+        "bucketId": "test-bucket-id-1",
+        "bucketInfo": {},
+        "bucketName": "test-bucket-1",
+        "bucketType": "allPrivate",
+        "corsRules": [],
+        "lifecycleRules": [],
+        "options": [],
+        "revision": 2
+      },
+      {
+        "accountId": "test-account-id",
+        "bucketId": "test-bucket-id-2",
+        "bucketInfo": {},
+        "bucketName": "test-bucket-2",
+        "bucketType": "allPublic",
+        "corsRules": [],
+        "lifecycleRules": [],
+        "options": [],
+        "revision": 2
+      },
+      {
+        "accountId": "test-account-id",
+        "bucketId": "test-bucket-id-3",
+        "bucketInfo": {},
+        "bucketName": "test-bucket-3",
+        "bucketType": "allPrivate",
+        "corsRules": [],
+        "lifecycleRules": [],
+        "options": [],
+        "revision": 2
+      },
+      {
+        "accountId": "test-account-id",
+        "bucketId": "test-bucket-id-4",
+        "bucketInfo": {},
+        "bucketName": "test-bucket-4",
+        "bucketType": "allPublic",
+        "corsRules": [],
+        "lifecycleRules": [],
+        "options": [],
+        "revision": 2
+      },
+      {
+        "accountId": "test-account-id",
+        "bucketId": "test-bucket-id-5",
+        "bucketInfo": {},
+        "bucketName": "test-bucket-5",
+        "bucketType": "allPrivate",
+        "corsRules": [],
+        "lifecycleRules": [],
+        "options": [],
+        "revision": 2
+      },
+      {
+        "accountId": "test-account-id",
+        "bucketId": "test-bucket-id-6",
+        "bucketInfo": {},
+        "bucketName": "test-bucket-6",
+        "bucketType": "allPublic",
+        "corsRules": [],
+        "lifecycleRules": [],
+        "options": [],
+        "revision": 2
+      },
+      {
+        "accountId": "test-account-id",
+        "bucketId": "test-bucket-id-7",
+        "bucketInfo": {},
+        "bucketName": "test-bucket-7",
+        "bucketType": "allPrivate",
+        "corsRules": [],
+        "lifecycleRules": [],
+        "options": [],
+        "revision": 2
+      },
+      {
+        "accountId": "test-account-id",
+        "bucketId": "test-bucket-id-8",
+        "bucketInfo": {},
+        "bucketName": "test-bucket-8",
+        "bucketType": "allPublic",
+        "corsRules": [],
+        "lifecycleRules": [],
+        "options": [],
+        "revision": 3
+      }
+    ]
+}

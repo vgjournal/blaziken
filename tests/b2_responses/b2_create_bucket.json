@@ -1,0 +1,8 @@
+{
+	"accountId" : "test-account-id",
+	"bucketId" : "test-bucket-id-1",
+	"bucketInfo" : {},
+	"bucketName" : "example-bucket",
+	"bucketType" : "allPrivate",
+	"lifecycleRules" : []
+}
